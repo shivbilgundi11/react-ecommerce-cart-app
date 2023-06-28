@@ -1,6 +1,54 @@
-# Getting Started with Create React App
+<h1 align="center" id="title">E-Commerce Shopping Cart App</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+<p id="description">Advanced shopping cart with advanced features like filtering through the products color, brand, price etc built react.js. Concepts like useReducer, Context API are used to build the application. And mobile responsive too.</p>
+
+<h2>🚀 Demo</h2>
+https://react-ecom-cart-app.netlify.app/
+
+
+
+<h2>Project Screenshots:</h2>
+
+![react-ecom-cart-app netlify app_](https://github.com/shivbilgundi11/react-ecommerce-cart-app/assets/101513013/2f4b21e7-3385-4f35-8820-82e872eb81c1)
+
+![react-ecom-cart-app netlify app_ (1)](https://github.com/shivbilgundi11/react-ecommerce-cart-app/assets/101513013/5c5f9483-9954-431d-b1b5-2c777cea5dec)
+
+
+  
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   A 2 pages application Products(home) and Cart page.
+*   Home page with products listing and filter section.
+*   Filter through product color, brand, category, price.
+*   Add to cart and remove from cart buttons on each product card rendered conditionaly.
+*   Search option to find the product you are looking for.
+*   Cart page with the items and billing or pricing section.
+*   Change the quantity of product in cart and remove product.
+*   Instant realtime total calculation on change of the items state.
+*   This app is completly mobile responsive.
+*   Works seamlessly on any screen size
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies and packages used in the project:
+
+*   React.js
+*   CSS
+*   React-Router-Dom
+*   Other icons and small pakages...
+
+
+
+
+
+
+
 
 ## Available Scripts
 
